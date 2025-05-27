@@ -29,8 +29,11 @@ Press q to exit the live window.
 
 ## Results
 Total Frames Processed: 752
+
 Average FPS: 19.10
+
 Unique Objects Detected (from model): 19
+
 Actual Objects Presented (12):
 book, bottle, cat, cell phone, cup, hair drier, keyboard, laptop, person, remote, spoon, toothbrush
 

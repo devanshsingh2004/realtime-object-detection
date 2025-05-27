@@ -37,9 +37,13 @@ Actual Objects Presented (12):
 book, bottle, cat, cell phone, cup, hair drier, keyboard, laptop, person, remote, spoon, toothbrush
 
 ## 🧪 Tested On
-OS: Windows 11
 
-GPU: NVIDIA GTX 1650 (Max-Q)
+- OS: Windows 11  
+- Python: 3.10.11  
+- GPU: NVIDIA GeForce GTX 1650 with Max-Q Design  
+- CUDA Version: 12.5 (system), using PyTorch with CUDA 11.8 build  
+- PyTorch: 2.1.2 with CUDA 11.8 build  
+- Ultralytics: 8.1.23  
+- OpenCV: 4.9.0.80
 
-Python: 3.10
 

@@ -10,8 +10,7 @@ This project is a real-time object detection system using a webcam and the YOLOv
 
 ## 🎥 Demo
 
-https://drive.google.com/your-video-link-here  
-(*Upload your `demo_video.mp4` to Google Drive or YouTube and share the link here.*)
+https://drive.google.com/file/d/11SVBSiHdTFIUROs2HatISPbPj9Qe9i43/view?usp=sharing
 
 ## 📦 Requirements
 

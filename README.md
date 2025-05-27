@@ -19,3 +19,25 @@ Install using pip:
 
 ```bash
 pip install -r requirements.txt
+```
+Make sure you have a compatible GPU and PyTorch installed with CUDA support.
+## 🚀 Run
+```bash
+python realtime_detection.py
+```
+Press q to exit the live window.
+
+## Results
+Total Frames Processed: 752
+Average FPS: 19.10
+Unique Objects Detected (from model): 19
+Actual Objects Presented (12):
+book, bottle, cat, cell phone, cup, hair drier, keyboard, laptop, person, remote, spoon, toothbrush
+
+## 🧪 Tested On
+OS: Windows 11
+
+GPU: NVIDIA GTX 1650 (Max-Q)
+
+Python: 3.10
+

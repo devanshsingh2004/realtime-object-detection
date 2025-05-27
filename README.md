@@ -26,15 +26,15 @@ python realtime_detection.py
 ```
 Press q to exit the live window.
 
-## Results
+## 📊 Performance Summary
 Total Frames Processed: 752
 
 Average FPS: 19.10
 
 Unique Objects Detected (from model): 19
 
-Actual Objects Presented (12):
-book, bottle, cat, cell phone, cup, hair drier, keyboard, laptop, person, remote, spoon, toothbrush
+Actual Objects Presented (11):
+book, bottle, cell phone, cup, hair drier, keyboard, laptop, person, remote, spoon, toothbrush
 
 ## 🧪 Tested On
 
